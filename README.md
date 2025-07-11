@@ -4,7 +4,7 @@
 
 
 
-###### Languages/frameworks that I am experienced in/and or dabbled in:
+###### Languages/frameworks that I am experienced in:
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)
 ![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)
