@@ -12,8 +12,8 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![Java]([https://img.shields.io/badge/-Python-05122A?style=flat&logo=python])
-![Lua]([https://img.shields.io/badge/-Lua-05122A?style=flat&logo=lua])
+![Java](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![Lua](https://img.shields.io/badge/-Lua-05122A?style=flat&logo=lua)
 
 ```typescript
 class AboutMe extends React.Component<{}, { name: string, gender: string, hobbies: string[], languages: string[] }> {
