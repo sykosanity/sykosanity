@@ -2,6 +2,8 @@
   Hello, I'm Syko!👋
 </h1>
 
+#I am a passionate coder, experienced in FiveM Development, Full Stack Web Development.
+
 
 
 ###### Languages/frameworks that I am experienced in:
